@@ -1,4 +1,4 @@
-![gdsc LinkedIn banner 2](https://user-images.githubusercontent.com/81616266/194755733-5c0dad39-395f-4442-a900-33588e6cf4c6.png)
+
 
 ![init](https://user-images.githubusercontent.com/81616266/194754913-d17d6e8a-e511-4b47-b82a-95e2f6ae8cec.jpg)
 Gear up guys, It's Git time. Let's push together and merge into a brilliant repo, all at once.
@@ -51,7 +51,6 @@ This repo is for the contribution of my students from the git init session I am 
 
 12. Then click on contribute and make pull request.
 
-#Organised And Conducted By:
+# Organised And Conducted By:
 
-![white text transparent](https://user-images.githubusercontent.com/81616266/194755767-c37a4ef1-addd-44ea-b29a-9f5941a2418d.png)
-
+![gdsc LinkedIn banner 2](https://user-images.githubusercontent.com/81616266/194755733-5c0dad39-395f-4442-a900-33588e6cf4c6.png)
