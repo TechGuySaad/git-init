@@ -10,6 +10,7 @@ int main(){
     cout<<"Ahmad Qayum\n";
     cout<<"Rohail Iqbal\n";
     cout<<"Moiz Ghazanfar\n";
+    cout<<"Abdul Ghani Khan\n";
     
 
     
