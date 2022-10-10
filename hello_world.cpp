@@ -9,6 +9,7 @@ int main(){
     cout<<"Hassaan Anwar\n";
     cout<<"Ahmad Qayum\n";
     cout<<"Rohail Iqbal\n";
+    cout<<"Moiz Ghazanfar\n";
     
 
     
