@@ -11,7 +11,7 @@ int main(){
     cout<<"Rohail Iqbal\n";
     cout<<"Moiz Ghazanfar\n";
     cout<<"Abdul Ghani Khan\n";
-        cout<<"Aabideen\n";
+    cout<<"Aabideen\n";
     
 
     
